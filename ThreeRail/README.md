@@ -1,4 +1,4 @@
-### A basic implementation of the **Three Rails ** encryption algorithm
+### A basic implementation of the **Three Rails** encryption algorithm
 
 ---
 
